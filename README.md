@@ -36,6 +36,12 @@ Para este proyecto se utilizaron las siguientes tecnologias:
         "vue-router"
         "vuex"
 
+## Deploy de la app
+
+El deploy del proyecto se realizo en la plataforma netlify.
+
+https://uteam-test-final-dev.netlify.app/
+
 ## Installation
 
 Descargue el repositorio y realize los siguientes pasos.
