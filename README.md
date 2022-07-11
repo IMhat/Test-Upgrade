@@ -21,6 +21,21 @@ Se requiere:
 
 5. Con la información desplegada desde el Api Rest, hacer un CRUD funcional   
 
+
+En este repositorio se desarrollo la version FINAL del test, en el cual arregle los  problemas del repo anterior, con ayuda de informacion en internet , guias, foros y distintos proyectos.
+
+## Technology
+
+Para este proyecto se utilizaron las siguientes tecnologias:
+
+        "axios"
+        "bulma"
+        "dotenv"
+        "md5"
+        "vue"
+        "vue-router"
+        "vuex"
+
 ## Installation
 
 Descargue el repositorio y realize los siguientes pasos.
